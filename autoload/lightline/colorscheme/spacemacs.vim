@@ -30,7 +30,7 @@ let s:tab_r_bg              = s:color_3
 let s:tab_sel_fg            = s:color_1
 let s:tab_sel_bg            = s:color_6
 let s:tab_middle_fg         = s:color_8
-let s:tab_middle_bg         = s:color_2
+let s:tab_middle_bg         = s:color_1
 
 let s:warningfg             = s:color_8
 let s:warningbg             = s:color_10
